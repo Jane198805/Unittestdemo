@@ -12,3 +12,5 @@ class Calculation():
             return x / y
         except BaseException as msg:
             return msg
+
+print(" hello word")
